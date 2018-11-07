@@ -187,4 +187,4 @@
 	}
 
 	return StartAudioContext
-}))
+}));
